@@ -133,7 +133,7 @@ Prototyping
 Real-World Projects
       ↓
 UI/UX Portfolio 🚀
-
+---
 
 ## 💡 What I Enjoy
 
@@ -143,7 +143,7 @@ UI/UX Portfolio 🚀
 📱 Creating better user experiences  
 🚀 Building practical projects  
 📚 Learning new technologies
-
+---
 ## 🤝 Connect With Me
 
 💼 **[LinkedIn](https://www.linkedin.com/in/misbbahoonnishaa-a-46b234334)**
@@ -151,10 +151,10 @@ UI/UX Portfolio 🚀
 📧 **[Email Me](mailto:misbbahoonnishaa@gmail.com)**
 
 🐙 **[GitHub](https://github.com/misbba)**
-
+---
 ## ⭐ Thanks for Visiting!
 
 I'm learning, designing and building my way toward
 becoming a UI/UX Designer.
-
+---
 ### ✨ Design. Learn. Create. Improve.
